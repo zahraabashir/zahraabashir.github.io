@@ -1,23 +1,15 @@
 ---
-title: 'Advanced RL&DL Deepmind: Introduction to Machine Learning Based AI'
+title: 'Advanced RL&DL Course Deepmind and UCL'
 date: 2020-12-21
-permalink: /posts/2020/12/advanced-rl-and-dl-sess1/
+permalink: /posts/2020/12/advanced-rl-and-dl-2/
 tags:
   - reinforcement learning
   - deep learning
 ---
 
-Introduction
-------
-Creating the Artificial General Intelligence undoubtly is one of the most important problems that mankid has faced and also could transform our world greatly once again. I think the wonder of this could be expressed precisely by the Deepmind's slogan:
-<strong>What if solving one problem could unlock solutions to thousands more?</strong>
-Moreover, there is a belief that Deep Reinforcement Learning could be foundation for Artificial General Intelligence, so maybe because of that there is an incredible upward trend twords Reinforcement Learning throughout past years, see this tweet from chris manning!
+# Deep Learning 1: Introduction to Machine Learning Based AI
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The amazing rise of reinforcement learning!<br>(With graph neural networks and meta-learning in hot pursuit. ConvNets? Tired.) Based on <a href="https://twitter.com/hashtag/ICLR2021?src=hash&amp;ref_src=twsrc%5Etfw">#ICLR2021</a> keywords HT <a href="https://twitter.com/PetarV_93?ref_src=twsrc%5Etfw">@PetarV_93</a> <a href="https://t.co/ozKpNUVH1i">pic.twitter.com/ozKpNUVH1i</a></p>&mdash; Christopher Manning (@chrmanning) <a href="https://twitter.com/chrmanning/status/1332725903470706688?ref_src=twsrc%5Etfw">November 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-Deepmind is one of the most prominent companies (if not the most!) working on this field. Deepmind's [AlphaGo](https://deepmind.com/research/case-studies/alphago-the-story-so-far) was a great breakthrough in the history of this field. AlphaGo succeeded to defeat a professional go player a decade before expected! Moreover, Deepmind has released a lot of great courses on different aspects of artifical intelligence literature, one of them is this course on RL and DL tought by Thore Graepel and some other great guest lecturers.
-So, in this series of blog posts, I want to share with you what I learnt from [Deepmind](https://deepmind.com/) & UCL Advanced Deep Learning & Reinforcement Learning Course.
+The first session is on introducing the lecturers and a definition of intelligence.
 
 What is intelligence?
 ======
