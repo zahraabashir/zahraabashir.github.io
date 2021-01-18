@@ -1,13 +1,13 @@
 ---
 title: 'Advanced RL&DL Course Deepmind and UCL'
-date: 2020-12-21
-permalink: /posts/2020/12/advanced-rl-and-dl-2/
+date: 2020-12-23
+permalink: /posts/2020/12/advanced-rl-and-dl-1/
 tags:
   - reinforcement learning
   - deep learning
 ---
 
-# Deep Learning 1: Introduction to Machine Learning Based AI
+## Deep Learning 1: Introduction to Machine Learning Based AI
 
 The first session is on introducing the lecturers and a definition of intelligence.
 

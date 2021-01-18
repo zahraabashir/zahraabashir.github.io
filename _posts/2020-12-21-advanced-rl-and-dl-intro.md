@@ -1,14 +1,14 @@
 ---
-title: 'Advanced RL&DL Course Deepmind and UCL'
+title: 'Advanced RL&DL Course Deepmind and UCL - Intro'
 date: 2020-12-21
-permalink: /posts/2020/12/advanced-rl-and-dl-1/
+permalink: /posts/2020/12/advanced-rl-and-dl-intro/
 tags:
   - reinforcement learning
   - deep learning
   - deepmind
 ---
 
-# Deepmind course notes
+## Deepmind Course Notes
 
 In this series of blog posts, I want to share what I've learned from the [Deepmind course on Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) and some extra things that I've discovered from exploring the topics that have been presented in the course but not fully explained. The course slides could be found [here](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning).
 

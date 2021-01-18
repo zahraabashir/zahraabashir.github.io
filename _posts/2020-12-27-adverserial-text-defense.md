@@ -1,6 +1,6 @@
 ---
 title: 'Adversarial Text Defense'
-date: 2020-12-21
+date: 2020-12-27
 permalink: /posts/2020/12/adverserial-text-defense/
 tags:
   - adversarial text
@@ -8,7 +8,7 @@ tags:
   - masked language model
   - nlp
 ---
-A Defense Method Against Adversarial Examples in Text.
+## A Defense Method Against Adversarial Examples in Text.
 
 Authors: [Parsa Kavehzadeh](https://github.com/parsareal), [Alireza Bakhtiari](https://github.com/sarb9). 
 
