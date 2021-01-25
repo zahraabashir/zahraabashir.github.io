@@ -1,5 +1,5 @@
 ---
-title: "Crypto-Currency Market Volatility Prediction Utilizing Limit Orderbook And Attention Neural Networks"
+title: "Volatility Prediction in Crypto-Currency Markets Using Attention-Based Deep Neural Networks"
 collection: publications
 permalink: /publication/volatility-prediction
 excerpt: 'Using Dual-Stage Attention-Based Recurrent Neural Network in forcasting cryptocurrency volatility and comparing results with other methods as well as hyperparameters.'
