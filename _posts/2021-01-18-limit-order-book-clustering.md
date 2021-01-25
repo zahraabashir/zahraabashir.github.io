@@ -1,12 +1,11 @@
 ---
 title: 'Limit Order Book dimension reduction and clustering'
 date: 2020-12-27
-permalink: /posts/2020/12/adverserial-text-defense/
+permalink: /posts/2020/12/order-book-dimension-reduction-and evolution/
 tags:
-  - adversarial text
-  - adversarial defense
-  - masked language model
-  - nlp
+  - limit order book
+  - self organizing maps
+  - algorithmic-trading
 ---
 ### Dimension Reduction for Limit Order Book Data and Applying SOM Clustering
 
@@ -193,7 +192,25 @@ def apply_buckets_on_order_book(order_book):
     return np.concatenate([bids[::-1], asks])
 ```
 
-### Self-Organizing Map
-A self-organizing map (SOM) or self-organizing feature map (SOFM) is a type of artificial neural network (ANN) that is trained using unsupervised learning to produce a low-dimensional (typically two-dimensional), discretized representation of the input space of the training samples, called a map, and is therefore a method to do dimensionality reduction. Self-organizing maps differ from other artificial neural networks as they apply competitive learning as opposed to error-correction learning (such as backpropagation with gradient descent), and in the sense that they use a neighborhood function to preserve the topological properties of the input space.
+## Self-Organizing Map
+A self-organizing map (SOM) or Kohonen’s maps is a type of artificial neural network (ANN) that is trained using unsupervised learning to produce a low-dimensional (typically two-dimensional), discretized representation of the input space of the training samples, called a map, and is therefore a method to do dimensionality reduction. Self-organizing maps differ from other artificial neural networks as they apply competitive learning as opposed to error-correction learning (such as backpropagation with gradient descent), and in the sense that they use a neighborhood function to preserve the topological properties of the input space.
 
-<img src="/images/SOM.gif" alt="SOM" width="800" style="float=right"/>
+{:refdef: style="text-align: center;"}
+![My Image]({{ site.baseimg }}/images/SOM.gif)
+{: refdef}
+
+### Architecture
+SOM is formed from two layers, one is the input layer and the other one is the lattice. The lattice is a network of neurons connected to each other in specific architecture (e.g. hexogans, cubic, rectangular). Each of the neurons in an SOM gets the inputs point and calculates its distance from it as follows:
+{:refdef: style="text-align: center;"}
+![My Image]({{ site.baseimg }}/images/SOM_structure.png)
+{: refdef}
+
+# Training
+Training could be seperated to three phases:
+    - Competetion
+    - Self update
+    - Neighbor update
+
+All of the phases are applied to each input sample in order.
+In the competetion phase, the closest neuron to the input will win and the input will be assigned to it.
+Next, the winner neuron's weight vector gets updated according to the input sample. 
