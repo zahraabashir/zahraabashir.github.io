@@ -1,7 +1,7 @@
 ---
 title: 'Limit Order Book dimension reduction and clustering'
-date: 2020-12-27
-permalink: /posts/2020/12/order-book-dimension-reduction-and-clustering/
+date: 2021-01-20
+permalink: /posts/2021/01/order-book-dimension-reduction-and-clustering/
 tags:
   - limit order book
   - self organizing maps
