@@ -81,7 +81,7 @@ print(mid_prices.shape)
 ```
 
 Mid-price is important in the study of order book shapes because the tick sizes are static (usually 0.01 dollar) but mid-price changes though time. For instance, first consider mid-price of 100\\$. and the bid order at 100 tick from the mid price 99.00\\$. In this case the buyer is proposing a price with a 99% of the actual mid price. In another case consider the mid-price of 200\\$ and the bid order at the same point (100 tick in bid side) with a price of 199.00%. This time the bid price is 99.5% of the mid-price. It is worth nothing to say that these two scenarios are different as buyers offer different prices ratios to the actual mid-price.
-Therefore, in order to resolve this problem we have to devide each tick's actual price (mid_price + number_of_tick * 0.01\\$) to the mid-price in that snapshot.
+Therefore, in order to resolve this problem we have to divide each tick's actual price (mid_price + number_of_tick * 0.01\\$) to the mid-price in that snapshot.
 ``` python
 price_ticks = raw_books[:, :, 0, :] / mid_prices[:, np.newaxis, np.newaxis]
 print(price_ticks.shape)
@@ -100,7 +100,7 @@ print(price_volumes.shape)
 (540000, 2, 100)
 ```
 
-Now we use ```np.histogram``` to devide volumes according to their prices into equal sized buckets(```bins``` value is hyper-parameter but does not have a strong effect on the result). Because of the different distribution in ask and bid sides we have to seperate their histograms.
+Now we use ```np.histogram``` to divide volumes according to their prices into equal sized buckets(```bins``` value is hyper-parameter but does not have a strong effect on the result). Because of the different distribution in ask and bid sides we have to seperate their histograms.
 ``` python
 bins = 100 * 1000
 bid_hist, bid_bin_edge = np.histogram(price_ticks[:, 0, :],
@@ -117,7 +117,7 @@ print(ask_hist.shape, ask_bin_edge.shape)
 (100000,) (100001,)
 ```
 
-Now, we use ```np.cumsum``` to sum over the volumes of the price histograms. By doing so, in each bucket we have the amount of volume prior to that. Further, we devide these volumes to their max in order to achieve the [CDF](https://en.wikipedia.org/wiki/Cumulative_distribution_function) of volumes according to their prices.
+Now, we use ```np.cumsum``` to sum over the volumes of the price histograms. By doing so, in each bucket we have the amount of volume prior to that. Further, we divide these volumes to their max in order to achieve the [CDF](https://en.wikipedia.org/wiki/Cumulative_distribution_function) of volumes according to their prices.
 ``` python
 bid_cumulated_volumes = np.cumsum(bid_hist)
 ask_cumulated_volumes = np.cumsum(ask_hist)
@@ -170,7 +170,7 @@ def apply_buckets_on_order_book(order_book):
 
     mid_price = (bid_prices[0] + ask_prices[0]) / 2
 
-    # Devide each tick price to mid price at that snapshot
+    # divide each tick price to mid price at that snapshot
     bid_prices /= mid_price
     ask_prices /= mid_price
 
