@@ -205,12 +205,60 @@ SOM is formed from two layers, one is the input layer and the other one is the l
 ![My Image]({{ site.baseimg }}/images/SOM_structure.png)
 {: refdef}
 
-# Training
+### Training
 Training could be seperated to three phases:
-    - Competetion
-    - Self update
-    - Neighbor update
+   - Competetion
+   - Self update
+   - Neighbor update
 
 All of the phases are applied to each input sample in order.
 In the competetion phase, the closest neuron to the input will win and the input will be assigned to it.
-Next, the winner neuron's weight vector gets updated according to the input sample. 
+Next, the winner neuron's weight vector gets updated according to the input sample. In the end, each of the neighbors get updated related to their proximity to the winner. You can read detailed algorithm in this [Link](https://towardsdatascience.com/kohonen-self-organizing-maps-a29040d688da).
+
+### Apply SOM on Data
+I use [MiniSOM](https://github.com/JustGlowing/minisom) implementation of SOM as follows:
+``` python
+A = 7
+B = 8
+sigma = 1.1
+learning_rate = .4
+epoch = 80000
+neighborhood_function = "gaussian"
+
+from minisom import MiniSom
+
+# Initialization and training
+som = MiniSom(A, B, 2 * (TARTGET_DIMENSION + 1), sigma=sigma, learning_rate=learning_rate, activation_distance='euclidean',
+              topology='hexagonal', neighborhood_function=neighborhood_function, random_seed=10)
+
+som.train(price_bucket_books_vstack, epoch, verbose=True)
+```
+``` python
+[ 80000 / 80000 ] 100% - 0:00:00 left
+```
+
+Result visualization:
+{:refdef: style="text-align: center;"}
+![My Image]({{ site.baseimg }}/images/SOM_hexagonal.png)
+{: refdef}
+
+Some clusters' members:
+``` python
+winners = [ [] for i in range(weights.shape[0] * weights.shape[1]) ]
+for cnt, x in tqdm(enumerate(price_bucket_books_vstack)):
+    winner = som.winner(x)
+    winners[winner[0] * weights.shape[1] + winner[1]].append(x)
+```
+``` python
+import random
+
+cluster_number = <cluster number>
+
+neuron = winners[culster number]
+print(len(neuron))
+for book in random.choices(neuron, k=6):
+    plt.bar(range(len(book)), book, label='Bars1', color='c')
+    plt.show()
+```
+
+
