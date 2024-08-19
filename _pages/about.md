@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there!"
+title: "Hi!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-My name is Seyed Alireza Bakhtiari and I am fourth year bachelor student of computer engineering at [Amirkabir University of Technology](https://aut.ac.ir/en).
-Moreover I am enthusiastic about Artificial Intelligence and Machine learning, and more specifically Reinforcement learning.
-Currently, I'm working on algorithmic-trading systems using Deep Reinforcement Learning at [Particleb](http://particleb.ai/).
+---
+I am a Master's student at the University of Alberta, under supervision of
+[Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/).
+My main research interests lie in sequential decision making.
 
+You can contact me via sbakhtia AT ualberta DOT ca.
 
-What's more?
+Publications
 ======
-I plan to write some blog posts of things that I find interesting in here in order to share them with others and to keep a record for myself.\
-Right now, I am writing some blog posts about one of the courses that I watched recently on youtube, so check out the Blog Posts tab on the top if you're intersted!\
+---
+
+**Regret Minimization via Saddle Point Optimization**\
+*Johannes Kirschner, Alireza Bakhtiari, Kushagra Chandak, Volodymyr Tkachuk, Csaba Szepesvári (NeurIPS 2023)*\
+[paper](https://arxiv.org/abs/2403.10379)
+
+**Efficient Planning in Combinatorial Action Spaces with Applications to Cooperative Multi-Agent Reinforcement Learning**\
+*Volodymyr Tkachuk\*, Alireza Bakhtiari\*, Johannes Kirschner, Matej Jusup, Ilija Bogunovic, Csaba Szepesvári (AISTATS 2023)*\
+[paper](https://arxiv.org/abs/2302.04376)
