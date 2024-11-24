@@ -229,7 +229,8 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _ talks:
+
   - scope:
       path: ""
       type: talks
