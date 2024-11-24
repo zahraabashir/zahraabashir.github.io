@@ -3,8 +3,8 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-# redirect_from:
-  # - /resume
+redirect_from:
+  - /resume
 ---
 [Download My CV](path/to/your-cv.pdf)
 
@@ -47,7 +47,7 @@ Work experience
   * Implementing data-science team's solutions with an aim on maintainability and high performance
   * Use django framework for web development
   <!-- * Participate in data-science team discussions and sessions -->
-  * Performing the role of the scrum master to accelerate the team's performance
+  <!-- * Performing the role of the scrum master to accelerate the team's performance
 
 * 2020: Machine Learning intern [@ParticleB.ai](http://particleb.ai/)
   * I was chosen from near 150 applicant after two phase interview
@@ -91,4 +91,4 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul> --> -->
