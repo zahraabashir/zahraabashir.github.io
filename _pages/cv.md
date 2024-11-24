@@ -3,11 +3,12 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
+# redirect_from:
+  # - /resume
 ---
+[Download My CV](path/to/your-cv.pdf)
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 Education
 ======
@@ -90,4 +91,4 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
