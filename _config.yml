@@ -7,9 +7,9 @@
 
 # Site Settings
 locale: "en-US"
-title: "Alireza Bakhtiari"
+title: "Zahra Bashir"
 title_separator: "-"
-name: &name "Alireza"
+name: &name "Zahra"
 description: &description "personal description"
 url: https://zahrabashir98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name: "Alireza Bakhtiari"
+  name: "Zahra Bashir"
   avatar: "profile.jpg"
   bio: "MSc Student in Computing Science, University of Alberta"
   location: "Edmonton, Alberta, Canada"
@@ -100,7 +100,7 @@ author:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin: "s-alireza-bakhtiari/"
+  linkedin: "https://www.linkedin.com/in/zahra-bashir-9a8488178/"
   orcid: #"http://orcid.org/yourorcidurl"
   pinterest:
   soundcloud:
