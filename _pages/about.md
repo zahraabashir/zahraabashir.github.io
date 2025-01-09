@@ -26,7 +26,7 @@ Publications
 
 
 **Revisiting the Assessment of Programmatic Policy Interpretability: Insights from Human Evaluation**\
-*<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (To be submitted to IJCAI 2025 in Jan)*\
+*<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (Under Review at ICLR)*\
 [paper link](https://zahrabashir98.github.io/paper.pdf)
 <!-- [paper link](https://www.researchgate.net/publication/386080072_Revisiting_The_Assessment_Of_Programmatic_Policy_Interpretability_Insights_From_Human_Evaluation) -->
 
