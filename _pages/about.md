@@ -20,7 +20,7 @@ Publications
 ======
 ---
 
-**Neurosymbolic Language Augmentation for Adaptive Program Synthesis**\
+**Learning Neuro-Augmented Domain-Specific Languages**\
 *<ins>**Zahra Bashir**</ins>, David Aleixo, Kevin Ellis, Levi Lelis (To be submitted to ICML 2025 in Jan)*\
 [paper link - partially written draft]()
 
