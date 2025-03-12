@@ -12,10 +12,12 @@ redirect_from:
 I completed a Master’s in Computer Science at the University of Alberta under the supervision of [Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/). Currently, I am a Machine Learning researcher at the University of Alberta and Amii, working under Levi's guidance.
 
 
-My primary research interest revolves around answering the question: "How can we build intelligent systems that learn, reason, and understand the world like humans?" I approach this question through the lens of symbolic reasoning and neurosymbolic AI using techniques from reinforcement learning and imitation learning.
+My primary research interest revolves around answering the question: "How can we build systems that learn, reason, and understand the world like humans?" I approach this question through the lens of machine learning and computational cognitive science using techniques from reinforcement learning and imitation learning.
 
 You can contact me via zbashir1 AT ualberta DOT ca.
 
+<!-- My primary research interest revolves around answering the question: "How can we build systems that learn, reason, and understand the world like humans?" I approach this question through the lens of symbolic reasoning and neurosymbolic AI using techniques from reinforcement learning and imitation learning.
+ -->
 <!-- 
 Publications
 ======
