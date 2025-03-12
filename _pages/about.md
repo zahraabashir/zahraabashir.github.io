@@ -16,6 +16,7 @@ My primary research interest revolves around answering the question: "How can we
 
 You can contact me via zbashir1 AT ualberta DOT ca.
 
+<!-- 
 Publications
 ======
 ---
@@ -27,10 +28,11 @@ Publications
 
 **Revisiting the Assessment of Programmatic Policy Interpretability: Insights from Human Evaluation**\
 *<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (Under Review at IJCAI 2025)*\
-[paper link](https://zahrabashir98.github.io/paper.pdf)
+[paper link](https://zahrabashir98.github.io/paper.pdf) -->
+
 <!-- [paper link](https://www.researchgate.net/publication/386080072_Revisiting_The_Assessment_Of_Programmatic_Policy_Interpretability_Insights_From_Human_Evaluation) -->
 
 
-**Assessing the Interpretability of Programmatic Policies with Large Language Models**\
+<!-- **Assessing the Interpretability of Programmatic Policies with Large Language Models**\
 *<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (RLC 2024 InterpPol Workshop)*\
-[paper link](https://arxiv.org/abs/2311.06979)
+[paper link](https://arxiv.org/abs/2311.06979) -->
