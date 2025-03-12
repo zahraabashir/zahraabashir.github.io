@@ -56,8 +56,8 @@ alexa_site_verification:
 yandex_site_verification:
 
 # Social Sharing
-twitter:
-  username: &twitter
+# twitter:
+  # username: &twitter
 facebook:
   username:
   app_id:
@@ -84,7 +84,7 @@ author:
   location: "Edmonton, Alberta, Canada"
   employer:
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: "https://scholar.google.com/citations?user=JSi7wWIAAAAJ&hl=en"
+  # googlescholar: "https://scholar.google.com/citations?user=JSi7wWIAAAAJ&hl=en"
   email:
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
@@ -94,8 +94,8 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "zahrabashir98"
-  cv: "https://zahrabashir98.github.io/CV.pdf"
+  # github: "zahrabashir98"
+  # cv: "https://zahrabashir98.github.io/CV.pdf"
   google_plus:
   keybase:
   instagram:
@@ -108,7 +108,7 @@ author:
   stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter: "zahraaw98"
+  # twitter: "zahraaw98"
   vine:
   weibo:
   xing:
