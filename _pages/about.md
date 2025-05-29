@@ -23,7 +23,7 @@ Publications
 ======
 ---
 
-**Learning Neuro-Augmented Domain-Specific Languages**\
+**Plastic Programming Languages: Learning Neuro-Augmented Domain-Specific Languages**\
 *<ins>**Zahra Bashir**</ins>, David Aleixo, Kevin Ellis, Levi Lelis (To be submitted to ICML 2025 in Jan)*\
 [abstract link](https://zahrabashir98.github.io/abstract.pdf) - preprint will be out soon!
 
