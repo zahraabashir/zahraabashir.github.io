@@ -23,8 +23,8 @@ Publications
 ======
 ---
 
-**Learning Neuro-Augmented Domain-Specific Languages**\
-*<ins>**Zahra Bashir**</ins>, David Aleixo, Kevin Ellis, Levi Lelis (To be submitted to ICML 2025 in Jan)*\
+<!-- **Learning Neuro-Augmented Domain-Specific Languages**\ -->
+*<ins>**Zahra Bashir**</ins>, David Aleixo, Kevin Ellis, Levi Lelis (In Preparation)*\
 [abstract link](https://zahrabashir98.github.io/abstract.pdf) - preprint will be out soon!
 
 
@@ -35,6 +35,6 @@ Publications
 <!-- [paper link](https://www.researchgate.net/publication/386080072_Revisiting_The_Assessment_Of_Programmatic_Policy_Interpretability_Insights_From_Human_Evaluation) -->
 
 
-<!-- **Assessing the Interpretability of Programmatic Policies with Large Language Models**\
+<!-- <!-- **Assessing the Interpretability of Programmatic Policies with Large Language Models**\ -->
 *<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (RLC 2024 InterpPol Workshop)*\
 [paper link](https://arxiv.org/abs/2311.06979) -->
