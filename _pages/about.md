@@ -38,3 +38,15 @@ Publications
 **Assessing the Interpretability of Programmatic Policies with Large Language Models**\
 *<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (RLC 2024 InterpPol Workshop)*\
 [paper link](https://arxiv.org/abs/2311.06979) 
+
+
+## Awards and Honors
+
+- **Admitted to Princeton University** for a PhD in Electrical and Computer Engineering (unable to attend due to U.S. travel ban on Iranian citizens); Advisor: Prof. Tom Silver _(Feb 2025)_
+- Received **Horizon Program Fellowship**, awarded by Princeton University _(March 2025)_
+- Admitted to the **DLRL2024 Summer School** organized by CIFAR/Vector _(April 2024)_
+- Consistently ranked **top three** among 100 students throughout my bachelor's program _(2016–2020)_
+- Received **Best Teaching Assistant Award** based on student evaluations _(2019)_
+- Main member of the **ACM ICPC team** of the Computer Engineering department _(2017)_
+- Ranked within the **top 0.2%** of the candidates in the "Iranian University Entrance Exam" for bachelor's degree _(2016)_
+- Awarded **first place** in the Provincial Computer Olympiads, securing a spot in the national competition _(2014)_
