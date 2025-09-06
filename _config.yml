@@ -11,9 +11,9 @@ title: "Zahra Bashir"
 title_separator: "-"
 name: &name "Zahra"
 description: &description "personal description"
-url: https://zahrabashir98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://zahraabashir.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "zahrabashir98/zahrabashir98.github.io"
+repository: "zahraabashir/zahraabashir.github.io"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
@@ -57,7 +57,7 @@ yandex_site_verification:
 
 # Social Sharing
 # twitter:
-  # username: &twitter
+# username: &twitter
 facebook:
   username:
   app_id:
@@ -94,8 +94,8 @@ author:
   flickr:
   facebook:
   foursquare:
-  # github: "zahrabashir98"
-  # cv: "https://zahrabashir98.github.io/CV.pdf"
+  # github: "zahraabashir"
+  # cv: "https://zahraabashir.github.io/CV.pdf"
   google_plus:
   keybase:
   instagram:

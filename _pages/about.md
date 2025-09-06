@@ -25,11 +25,11 @@ You can contact me via zbashir1 AT ualberta DOT ca.
 
 **Plastic Programming Languages: Learning Neuro-Augmented Domain-Specific Languages**\
 \_<ins>**Zahra Bashir**</ins>, David Aleixo, Kevin Ellis, Levi Lelis \
-[abstract link](https://zahrabashir98.github.io/abstract.pdf)
+[abstract link](https://zahraabashir.github.io/abstract.pdf)
 
 **Revisiting the Assessment of Programmatic Policy Interpretability: Insights from Human Evaluation**\
 _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (Under Review)_\
-[paper link](https://zahrabashir98.github.io/paper.pdf)
+[paper link](https://zahraabashir.github.io/paper.pdf)
 
 <!-- [paper link](https://www.researchgate.net/publication/386080072_Revisiting_The_Assessment_Of_Programmatic_Policy_Interpretability_Insights_From_Human_Evaluation)-->
 
