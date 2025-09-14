@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ---
-I completed a Master’s in Computer Science at the University of Alberta under the supervision of [Dr. Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/). Currently, I am a Research Intern at UBc affiliated with Vector, and I've technically started my PhD research with [Dr. Kelsey Allen](https://k-r-allen.github.io/) @ UBC and [Dr. Tom Silver](https://tomsilver.github.io/) @Princeton.
+I'm currently a Research Intern at UBc affiliated with Vector Institute, technically started my PhD research with [Dr. Kelsey Allen](https://k-r-allen.github.io/) @ UBC and [Dr. Tom Silver](https://tomsilver.github.io/) @Princeton. Before that, I completed my Master’s in Computer Science at the University of Alberta under the supervision of [Dr. Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/).
 <!-- I completed a Master’s in Computer Science at the University of Alberta under the supervision of [Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/). Currently, I am a Machine Learning researcher at the University of Alberta and Amii, working under Levi's guidance. -->
 
 My primary research interest revolves around answering the question: "How can we build systems that learn, reason, and understand the world like humans?" I approach this question through the lens of symbolic reasoning and neurosymbolic AI using techniques from reinforcement learning and imitation learning.
