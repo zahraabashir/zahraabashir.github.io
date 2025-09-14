@@ -22,10 +22,13 @@ You can contact me via zbashir1 AT ualberta DOT ca.
 # Publications
 
 ---
-
 **Plastic Programming Languages: Learning Neuro-Augmented Domain-Specific Languages**\
-\_<ins>**Zahra Bashir**</ins>, David Aleixo, Kevin Ellis, Levi Lelis \
+_<ins>**Zahra Bashir**</ins>, David Aleixo, Kevin Ellis, Levi Lelis \
 [abstract link](https://zahraabashir.github.io/abstract.pdf)
+
+**SEGClobber - A Linear Clobber Solver**\
+_<ins>Taylor Folkerson</ins>, Zahra Bashir, Fatemeh Tavakoli, Martin Muller \
+Under Review at International Computer Game Association
 
 **Revisiting the Assessment of Programmatic Policy Interpretability: Insights from Human Evaluation**\
 _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (Under Review)_\
