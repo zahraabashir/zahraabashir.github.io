@@ -12,7 +12,7 @@ redirect_from:
 I'm currently a Research Intern at UBC (University of British Columbia) affiliated with Vector Institute, technically started my PhD research with [Dr. Kelsey Allen](https://k-r-allen.github.io/) @ UBC and [Dr. Tom Silver](https://tomsilver.github.io/) @Princeton. Before that, I completed my Master’s in Computer Science at the University of Alberta under the supervision of [Dr. Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/).
 <!-- I completed a Master’s in Computer Science at the University of Alberta under the supervision of [Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/). Currently, I am a Machine Learning researcher at the University of Alberta and Amii, working under Levi's guidance. -->
 
-My primary research interest revolves around answering the question: "How can we build systems that learn, reason, and understand the world like humans?" I approach this question through the lens of symbolic reasoning and neurosymbolic AI using techniques from reinforcement learning and imitation learning.
+I’m currently working on Programmatic Policies for _Physical Strategy Learning_. Broadly, my research asks: how can we build systems that learn, reason, and understand the world like humans? I explore this through the lens of symbolic reasoning and neurosymbolic AI, using tools from reinforcement learning and imitation learning.
 
 You can contact me via zbashir1 AT ualberta DOT ca.
 
@@ -42,7 +42,7 @@ _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (RLC 2024 InterpPol Wo
 
 ## Awards and Honors
 
-- **Admitted to Princeton University** for a PhD in Electrical and Computer Engineering (unable to attend due to U.S. travel ban on Iranian citizens); Advisor: Prof. Tom Silver _(Feb 2025)_
+- **Admitted to Princeton University** for a PhD in Electrical and Computer Engineering (currently, unable to attend due to U.S. travel ban on Iranian citizens); Advisor: Prof. Tom Silver _(Feb 2025)_
 - Received **Horizon Program Fellowship**, awarded by Princeton University _(March 2025)_
 - Admitted to the **DLRL2024 Summer School** organized by CIFAR/Vector _(April 2024)_
 <!-- - Consistently ranked **top three** among 100 students throughout my bachelor's program _(2016–2020)_ -->
