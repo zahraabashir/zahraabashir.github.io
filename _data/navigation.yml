@@ -6,8 +6,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Awards and Honors"
-    url: /awards/
+  # - title: "Awards and Honors"
+  #   url: /awards/
   #   url: /teaching/
 
   # - title: "Blog Posts"
