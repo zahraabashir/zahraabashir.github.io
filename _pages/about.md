@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 ---
-
-I completed a Master’s in Computer Science at the University of Alberta under the supervision of [Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/). Currently, I am a Machine Learning researcher at the University of Alberta and Amii, working under Levi's guidance.
+I completed a Master’s in Computer Science at the University of Alberta under the supervision of [Dr. Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/). Currently, I am a Research Intern at UBc affiliated with Vector, and I've technically started my PhD research with [Dr. Kelsey Allen](https://k-r-allen.github.io/) @ UBC and [Dr. Tom Silver](https://tomsilver.github.io/) @Princeton.
+<!-- I completed a Master’s in Computer Science at the University of Alberta under the supervision of [Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/). Currently, I am a Machine Learning researcher at the University of Alberta and Amii, working under Levi's guidance. -->
 
 My primary research interest revolves around answering the question: "How can we build systems that learn, reason, and understand the world like humans?" I approach this question through the lens of symbolic reasoning and neurosymbolic AI using techniques from reinforcement learning and imitation learning.
 
@@ -27,8 +27,8 @@ _<ins>**Zahra Bashir**</ins>, David Aleixo, Kevin Ellis, Levi Lelis \
 [abstract link](https://zahraabashir.github.io/abstract.pdf)
 
 **SEGClobber - A Linear Clobber Solver**\
-_<ins>Taylor Folkerson</ins>, Zahra Bashir, Fatemeh Tavakoli, Martin Muller \
-Under Review at International Computer Game Association
+_<ins>Taylor Folkerson</ins>, Zahra Bashir, Fatemeh Tavakoli, Martin Muller (Under Review at ICGA)\
+
 
 **Revisiting the Assessment of Programmatic Policy Interpretability: Insights from Human Evaluation**\
 _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (Under Review)_\
@@ -36,7 +36,7 @@ _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (Under Review)_\
 
 <!-- [paper link](https://www.researchgate.net/publication/386080072_Revisiting_The_Assessment_Of_Programmatic_Policy_Interpretability_Insights_From_Human_Evaluation)-->
 
-**Assessing the Interpretability of Programmatic Policies with Large Language Models**\
+**LINT: Assessing the Interpretability of Programmatic Policies with Large Language Models**\
 _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (RLC 2024 InterpPol Workshop)_\
 [paper link](https://arxiv.org/abs/2311.06979)
 
@@ -50,4 +50,4 @@ _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (RLC 2024 InterpPol Wo
 <!-- - Received **Best Teaching Assistant Award** based on student evaluations _(2019)_ -->
 - Main member of the **ACM ICPC team** of the Computer Engineering department _(2017)_
 - Ranked within the **top 0.2%** of the candidates in the "Iranian University Entrance Exam" for bachelor's degree _(2016)_
-- **First Place**, Provincial Computer Olympiad; qualified for the National Round _(2014)_
+<!-- - **First Place**, Provincial Computer Olympiad; qualified for the National Round _(2014)_ -->

@@ -80,7 +80,8 @@ analytics:
 author:
   name: "Zahra Bashir"
   avatar: "profile.png"
-  bio: "MSc Student in Computing Science, University of Alberta"
+  # bio: "MSc Student in Computing Science, University of Alberta"
+  bio: "Incoming PhD Student, Princeton University"
   location: "Edmonton, Alberta, Canada"
   employer:
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
