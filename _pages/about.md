@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ---
-I'm currently a Research Intern at UBC (University of British Columbia) affiliated with Vector Institute, technically started my PhD research with [Dr. Kelsey Allen](https://k-r-allen.github.io/) @ UBC and [Dr. Tom Silver](https://tomsilver.github.io/) @Princeton. Before that, I completed my Master’s in Computer Science at the University of Alberta under the supervision of [Dr. Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/).
+I'm currently a Research Intern at UBC (University of British Columbia) affiliated with Vector Institute, technically started my PhD research with [Dr. Kelsey Allen](https://k-r-allen.github.io/) @ UBC and [Dr. Tom Silver](https://tomsilver.github.io/) @Princeton Univeristy. Before that, I completed my Master’s in Computer Science at the University of Alberta under the supervision of [Dr. Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/).
 <!-- I completed a Master’s in Computer Science at the University of Alberta under the supervision of [Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/). Currently, I am a Machine Learning researcher at the University of Alberta and Amii, working under Levi's guidance. -->
 
 I’m currently working on Programmatic Policies for _Physical Strategy Learning_. Broadly, my research asks: how can we build systems that learn, reason, and understand the world like humans? I explore this through the lens of symbolic reasoning and neurosymbolic AI, using tools from reinforcement learning and imitation learning.
