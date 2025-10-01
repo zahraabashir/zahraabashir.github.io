@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download My CV](https://zahraabashir.github.io/CV.pdf)
+[Download My CV](https://zahraabashir.github.io/CV.pdf) -->
