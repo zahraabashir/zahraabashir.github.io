@@ -28,7 +28,7 @@ You can contact me via zbashir1 AT ualberta DOT ca.
 [abstract link](https://zahraabashir.github.io/abstract.pdf)
 
 **SEGClobber - A Linear Clobber Solver**\
-Taylor Folkerson, <ins>Zahra Bashir</ins>, Fatemeh Tavakoli, Martin Muller (Under Review at ICGA)
+Taylor Folkerson, <ins>Zahra Bashir</ins>, Fatemeh Tavakoli, Martin Muller (International Computer Games Association)
 
 
 **Revisiting the Assessment of Programmatic Policy Interpretability: Insights from Human Evaluation**\
