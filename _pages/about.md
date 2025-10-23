@@ -29,7 +29,7 @@ You can contact me via zbashir1 AT ualberta DOT ca.
 
 **SEGClobber - A Linear Clobber Solver**\
 Taylor Folkerson, <ins>Zahra Bashir</ins>, Fatemeh Tavakoli, Martin Muller (International Computer Games Association)
-
+[paper link](https://webdocs.cs.ualberta.ca/~mmueller/ps/2025/Clobber_Solver_ACG_2025.pdf)
 
 **Revisiting the Assessment of Programmatic Policy Interpretability: Insights from Human Evaluation**\
 _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (Under Review)_\
