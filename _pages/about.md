@@ -23,23 +23,23 @@ You can contact me via zbashir1 AT ualberta DOT ca.
 # Publications
 
 ---
-**Plastic Programming Languages: Learning Neuro-Augmented Domain-Specific Languages**\
+[**Plastic Programming Languages: Learning Neuro-Augmented Domain-Specific Languages**](https://zahraabashir.github.io/abstract.pdf)\
 <ins>**Zahra Bashir**</ins>, David Aleixo, Kevin Ellis, Levi Lelis \
-[abstract link](https://zahraabashir.github.io/abstract.pdf)
+<!-- [abstract link](https://zahraabashir.github.io/abstract.pdf) -->
 
-**SEGClobber - A Linear Clobber Solver**\
+[**SEGClobber - A Linear Clobber Solver**](https://webdocs.cs.ualberta.ca/~mmueller/ps/2025/Clobber_Solver_ACG_2025.pdf)\
 Taylor Folkerson, <ins>Zahra Bashir</ins>, Fatemeh Tavakoli, Martin Muller (International Computer Games Association)
-[paper link](https://webdocs.cs.ualberta.ca/~mmueller/ps/2025/Clobber_Solver_ACG_2025.pdf)
+<!-- [paper link](https://webdocs.cs.ualberta.ca/~mmueller/ps/2025/Clobber_Solver_ACG_2025.pdf) -->
 
-**Revisiting the Assessment of Programmatic Policy Interpretability: Insights from Human Evaluation**\
+[**Revisiting the Assessment of Programmatic Policy Interpretability: Insights from Human Evaluation**](https://zahraabashir.github.io/paper.pdf)\
 _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (Under Review)_\
-[paper link](https://zahraabashir.github.io/paper.pdf)
+<!-- [paper link](https://zahraabashir.github.io/paper.pdf) -->
 
 <!-- [paper link](https://www.researchgate.net/publication/386080072_Revisiting_The_Assessment_Of_Programmatic_Policy_Interpretability_Insights_From_Human_Evaluation)-->
 
-**LINT: Assessing the Interpretability of Programmatic Policies with Large Language Models**\
+[**LINT: Assessing the Interpretability of Programmatic Policies with Large Language Models**](https://arxiv.org/abs/2311.06979)\
 _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (RLC 2024 InterpPol Workshop)_\
-[paper link](https://arxiv.org/abs/2311.06979)
+<!-- [paper link]() -->
 
 
 
