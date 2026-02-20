@@ -13,7 +13,9 @@ I'm currently a Machine Learning Researcher at UBC affiliated with Vector Instit
 <!-- I'm currently a Research Intern at UBC (University of British Columbia) affiliated with Vector Institute, technically started my PhD research with [Dr. Kelsey Allen](https://k-r-allen.github.io/) @ UBC and [Dr. Tom Silver](https://tomsilver.github.io/) @Princeton Univeristy. Before that, I completed my Master’s in Computer Science at the University of Alberta under the supervision of [Dr. Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/). -->
 <!-- I completed a Master’s in Computer Science at the University of Alberta under the supervision of [Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/). Currently, I am a Machine Learning researcher at the University of Alberta and Amii, working under Levi's guidance. -->
 
-I’m currently working on Programmatic Policies for _Physical Strategy Learning_. Broadly, my research asks: how can we build systems that learn, reason, and understand the world like humans? I explore this through the lens of symbolic reasoning and neurosymbolic AI, using tools from reinforcement learning and imitation learning.
+I’m currently working on Programmatic Policies for _Physical Strategy Learning_ in a few shot learning setup. 
+<!-- Broadly, my research asks: how can we build systems that learn, reason, and understand the world like humans? I explore this through the lens of symbolic reasoning and neurosymbolic AI, using tools from reinforcement learning and imitation learning. -->
+Broadly, I’m interested in how we can build systems that learn, reason, and understand the world more like humans. I try to explore this question through symbolic reasoning and neurosymbolic AI, using tools from reinforcement learning and imitation learning
 
 You can contact me via zbashir1 AT ualberta DOT ca.
 
@@ -44,14 +46,15 @@ _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (RLC 2024 InterpPol Wo
 
 
 
-<!-- ## Awards and Honors -->
-
-<!-- - **Admitted to Princeton University** for a PhD in Electrical and Computer Engineering (currently, unable to attend due to U.S. travel ban on Iranian citizens); Advisor: Prof. Tom Silver _(Feb 2025)_
+<!-- ## Updates
+- **Admitted to Princeton University** for a PhD in Electrical and Computer Engineering (currently unable to attend due to the U.S. travel ban on Iranian citizens); Advisor: Prof. Tom Silver _(Feb 2025)_
 - Received **Horizon Program Fellowship**, awarded by Princeton University _(March 2025)_
 - Admitted to the **DLRL2024 Summer School** organized by CIFAR/Vector _(April 2024)_
-- Consistently ranked among the **top three** students out of 100 in the undergraduate Computer Engineering program _(2016–2020)_
-- Main member of the **ACM ICPC team** of the Computer Engineering department _(2017)_
-- Ranked within the **top 0.2%** of the candidates in the "Iranian University Entrance Exam" for bachelor's degree _(2016)_ -->
+<!-- - Defended my master's at the University of Alberta! -->
+<!-- - Started my MSc at the University of Alberta! -->
+<!-- - Consistently ranked among the **top three** students out of 100 in the undergraduate Computer Engineering program _(2016–2020)_ -->
+<!-- - Main member of the **ACM ICPC team** of the Computer Engineering department _(2017)_ -->
+<!-- - Ranked within the **top 0.2%** of the candidates in the "Iranian University Entrance Exam" for bachelor's degree _(2016)_ -->
 
 <!-- - Received **Best Teaching Assistant Award** based on student evaluations _(2019)_ -->
 <!-- - **First Place**, Provincial Computer Olympiad; qualified for the National Round _(2014)_ -->
