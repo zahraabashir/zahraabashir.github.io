@@ -25,7 +25,7 @@ You can contact me via zbashir1 AT ualberta DOT ca.
 # Publications
 
 ---
-[**Plastic Programming Languages: Learning Neuro-Augmented Domain-Specific Languages**](https://zahraabashir.github.io/abstract.pdf)\
+[**Plastic Programming Languages: Learning Neuro-Augmented Domain-Specific Languages**](In preparation)\
 <ins>**Zahra Bashir**</ins>, David Aleixo, Kevin Ellis, Levi Lelis \
 <!-- [abstract link](https://zahraabashir.github.io/abstract.pdf) -->
 
