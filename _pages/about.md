@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ---
-I’m currently a Machine Learning Researcher affiliated with the Princeton Robot Planning and Learning Group (PRPL) and the UBC Natural and Artificial Intelligence Lab (NAIL), working with [Dr. Tom Silver](https://tomsilver.github.io/) and [Dr. Kelsey Allen](https://k-r-allen.github.io/). I will be starting my PhD soon with these labs. Before this, I completed my Master’s in Computer Science at the University of Alberta under the supervision of [Dr. Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/).
+I’m currently a Machine Learning Researcher affiliated with the Princeton Robot Planning and Learning Group (PRPL) and the UBC Natural and Artificial Intelligence Lab (NAIL), working with [Dr. Tom Silver](https://tomsilver.github.io/) and [Dr. Kelsey Allen](https://k-r-allen.github.io/). I will soon begin my PhD under their supervision. Before this, I completed my Master’s in Computer Science at the University of Alberta under the supervision of [Dr. Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/).
 
 Currently, my research focuses on building agents that can learn physical strategies from only a few demonstrations. In particular, I study programmatic policies and learned abstractions that help agents generalize beyond the examples they observe. More broadly, I’m interested in how we can build systems that learn, reason, and understand the world more like humans, using ideas from symbolic reasoning, neurosymbolic AI, reinforcement learning, and imitation learning.
 
