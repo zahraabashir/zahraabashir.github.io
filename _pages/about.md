@@ -17,10 +17,6 @@ You can contact me at zb2882@princeton.edu
 
 # Publications
 
----
-## Published and Submitted
-
-
 [**What to Represent, How to Act: Programmatic Feature Induction for Few-Shot Bayesian Imitation**](https://zahraabashir.github.io/TwoLIP.pdf)\
 _<ins>**Zahra Bashir**</ins>, Kelsey Allen, Tom Silver (Under Review for RLC - RL in Big Worlds Workshop)\
 
@@ -34,7 +30,7 @@ Taylor Folkerson, <ins>Zahra Bashir</ins>, Fatemeh Tavakoli, Martin Muller (Inte
 
 
 [**Revisiting the Assessment of Programmatic Policy Interpretability: Insights from Human Evaluation**](https://zahraabashir.github.io/paper.pdf)\
-_<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (Under Review)_\
+_<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis _\
 <!-- [paper link](https://zahraabashir.github.io/paper.pdf) -->
 
 <!-- [paper link](https://www.researchgate.net/publication/386080072_Revisiting_The_Assessment_Of_Programmatic_Policy_Interpretability_Insights_From_Human_Evaluation)-->
