@@ -9,29 +9,36 @@ redirect_from:
 ---
 
 ---
-I'm currently a Machine Learning Researcher at UBC affiliated with Vector Institute, working with [Dr. Kelsey Allen](https://k-r-allen.github.io/) @ UBC and [Dr. Tom Silver](https://tomsilver.github.io/) @Princeton Univeristy. Before that, I completed my Master’s in Computer Science at the University of Alberta under the supervision of [Dr. Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/).
+I’m currently a Machine Learning Researcher affiliated with the Princeton Robot Planning and Learning Group (PRPL) and the UBC Natural and Artificial Intelligence Lab (NAIL), working with [Dr. Tom Silver](https://tomsilver.github.io/) at Princeton and [Dr. Kelsey Allen](https://k-r-allen.github.io/) at UBC. I will be starting my PhD soon with these labs. Before this, I completed my Master’s in Computer Science at the University of Alberta under the supervision of [Dr. Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/).
+
+Currently, my research focuses on building agents that can learn physical strategies from only a few demonstrations. In particular, I study programmatic policies and learned abstractions that help agents generalize beyond the examples they observe. More broadly, I’m interested in how we can build systems that learn, reason, and understand the world more like humans, using ideas from symbolic reasoning, neurosymbolic AI, reinforcement learning, and imitation learning.
+
+You can contact me at zb2882@princeton.edu
+<!-- I'm currently a Machine Learning Researcher at UBC affiliated with Vector Institute, working with [Dr. Kelsey Allen](https://k-r-allen.github.io/) @ UBC and [Dr. Tom Silver](https://tomsilver.github.io/) @Princeton Univeristy. Before that, I completed my Master’s in Computer Science at the University of Alberta under the supervision of [Dr. Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/).
 <!-- I'm currently a Research Intern at UBC (University of British Columbia) affiliated with Vector Institute, technically started my PhD research with [Dr. Kelsey Allen](https://k-r-allen.github.io/) @ UBC and [Dr. Tom Silver](https://tomsilver.github.io/) @Princeton Univeristy. Before that, I completed my Master’s in Computer Science at the University of Alberta under the supervision of [Dr. Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/). -->
 <!-- I completed a Master’s in Computer Science at the University of Alberta under the supervision of [Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/). Currently, I am a Machine Learning researcher at the University of Alberta and Amii, working under Levi's guidance. -->
 
-I’m currently working on Programmatic Policies for _Physical Strategy Learning_ in a few shot learning setup. 
+<!-- I’m currently working on Programmatic Policies for _Physical Strategy Learning_ in a few shot learning setup.  -->
 <!-- Broadly, my research asks: how can we build systems that learn, reason, and understand the world like humans? I explore this through the lens of symbolic reasoning and neurosymbolic AI, using tools from reinforcement learning and imitation learning. -->
-Broadly, I’m interested in how we can build systems that learn, reason, and understand the world more like humans. I try to explore this question through symbolic reasoning and neurosymbolic AI, using tools from reinforcement learning and imitation learning
+<!-- Broadly, I’m interested in how we can build systems that learn, reason, and understand the world more like humans. I try to explore this question through symbolic reasoning and neurosymbolic AI, using tools from reinforcement learning and imitation learning
 
-You can contact me via zbashir1 AT ualberta DOT ca.
-
+You can contact me via zbashir1 AT ualberta DOT ca. -->
+ <!-- --> -->
 <!-- My primary research interest revolves around answering the question: "How can we build systems that learn, reason, and understand the world like humans?" I approach this question through the lens of symbolic reasoning and neurosymbolic AI using techniques from reinforcement learning and imitation learning.
  -->
 
 # Publications
 
 ---
-[**Plastic Programming Languages: Learning Neuro-Augmented Domain-Specific Languages**](In preparation)\
-<ins>**Zahra Bashir**</ins>, David Aleixo, Kevin Ellis, Levi Lelis \
-<!-- [abstract link](https://zahraabashir.github.io/abstract.pdf) -->
+## Published and Submitted
+
+
+[**What to Represent, How to Act: Programmatic Feature Induction for Few-Shot Bayesian Imitation**](https://zahraabashir.github.io/TwoLIP.pdf)\
+_<ins>**Zahra Bashir**</ins>, Kelsey Allen, Tom Silver (Under Review for RLC 2026)_\
 
 [**SEGClobber - A Linear Clobber Solver**](https://webdocs.cs.ualberta.ca/~mmueller/ps/2025/Clobber_Solver_ACG_2025.pdf)\
 Taylor Folkerson, <ins>Zahra Bashir</ins>, Fatemeh Tavakoli, Martin Muller (International Computer Games Association)
-<!-- [paper link](https://webdocs.cs.ualberta.ca/~mmueller/ps/2025/Clobber_Solver_ACG_2025.pdf) -->
+
 
 [**Revisiting the Assessment of Programmatic Policy Interpretability: Insights from Human Evaluation**](https://zahraabashir.github.io/paper.pdf)\
 _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (Under Review)_\
@@ -42,6 +49,13 @@ _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (Under Review)_\
 [**LINT: Assessing the Interpretability of Programmatic Policies with Large Language Models**](https://arxiv.org/abs/2311.06979)\
 _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (RLC 2024 InterpPol Workshop)_\
 <!-- [paper link]() -->
+
+## Drafts
+
+
+[**Plastic Programming Languages: Learning Neuro-Augmented Domain-Specific Languages**](In preparation)\
+<ins>**Zahra Bashir**</ins>, David Aleixo, Kevin Ellis, Levi Lelis \
+<!-- [abstract link](https://zahraabashir.github.io/abstract.pdf) -->
 
 
 
