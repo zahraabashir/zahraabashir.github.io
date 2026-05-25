@@ -25,7 +25,7 @@ You can contact me at zb2882@princeton.edu
 _<ins>**Zahra Bashir**</ins>, Kelsey Allen, Tom Silver (Under Review for RLC - RL in Big Worlds Workshop)\
 
 
-[**Plastic Programming Languages: Learning Neuro-Augmented Domain-Specific Languages**](In preparation)\
+[**Plastic Programming Languages: Learning Neuro-Augmented Domain-Specific Languages** (In preparation)]\
 <ins>**Zahra Bashir**</ins>, David Aleixo, Kevin Ellis, Levi Lelis
 <!-- [abstract link](https://zahraabashir.github.io/abstract.pdf) -->
 
