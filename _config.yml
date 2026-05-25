@@ -82,7 +82,8 @@ author:
   avatar: "profile.png"
   # bio: "MSc Student in Computing Science, University of Alberta"
   # bio: "Incoming PhD Student, Princeton University"
-  bio: "Machine Learning Researcher at Vector Institute "
+  # bio: "Machine Learning Researcher at Vector Institute "
+  bio: "Machine Learning Researcher | Incoming PhD Student"
   location: "Edmonton, Alberta, Canada"
   employer:
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
