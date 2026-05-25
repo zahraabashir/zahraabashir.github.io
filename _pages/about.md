@@ -22,7 +22,12 @@ You can contact me at zb2882@princeton.edu
 
 
 [**What to Represent, How to Act: Programmatic Feature Induction for Few-Shot Bayesian Imitation**](https://zahraabashir.github.io/TwoLIP.pdf)\
-_<ins>**Zahra Bashir**</ins>, Kelsey Allen, Tom Silver (Under Review for RLC 2026)_\
+_<ins>**Zahra Bashir**</ins>, Kelsey Allen, Tom Silver (Under Review for RLC - RL in Big Worlds Workshop)\
+
+
+[**Plastic Programming Languages: Learning Neuro-Augmented Domain-Specific Languages**](In preparation)\
+<ins>**Zahra Bashir**</ins>, David Aleixo, Kevin Ellis, Levi Lelis
+<!-- [abstract link](https://zahraabashir.github.io/abstract.pdf) -->
 
 [**SEGClobber - A Linear Clobber Solver**](https://webdocs.cs.ualberta.ca/~mmueller/ps/2025/Clobber_Solver_ACG_2025.pdf)\
 Taylor Folkerson, <ins>Zahra Bashir</ins>, Fatemeh Tavakoli, Martin Muller (International Computer Games Association)
@@ -38,12 +43,8 @@ _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (Under Review)_\
 _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (RLC 2024 InterpPol Workshop)_\
 <!-- [paper link]() -->
 
-## Drafts
+<!-- ## Drafts -->
 
-
-[**Plastic Programming Languages: Learning Neuro-Augmented Domain-Specific Languages**](In preparation)\
-<ins>**Zahra Bashir**</ins>, David Aleixo, Kevin Ellis, Levi Lelis \
-<!-- [abstract link](https://zahraabashir.github.io/abstract.pdf) -->
 
 
 
