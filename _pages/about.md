@@ -56,12 +56,11 @@ You can contact me at zb2882@princeton.edu
 _<ins>**Zahra Bashir**</ins>, Kelsey Allen, Tom Silver (Under Review for RLC - RL in Big Worlds Workshop)_\
 
 
-[**Plastic Programming Languages: Learning Neuro-Augmented Domain-Specific Languages** (In preparation)]\
-_<ins>**Zahra Bashir**</ins>, David Aleixo, Kevin Ellis, Levi Lelis_\
-
 [**SEGClobber - A Linear Clobber Solver**](https://webdocs.cs.ualberta.ca/~mmueller/ps/2025/Clobber_Solver_ACG_2025.pdf)\
 _Taylor Folkerson, <ins>Zahra Bashir</ins>, Fatemeh Tavakoli, Martin Muller (International Computer Games Association)_\
 
+[**Plastic Programming Languages: Learning Neuro-Augmented Domain-Specific Languages** (In preparation)]\
+_<ins>**Zahra Bashir**</ins>, David Aleixo, Kevin Ellis, Levi Lelis_\
 
 [**Revisiting the Assessment of Programmatic Policy Interpretability: Insights from Human Evaluation**](https://zahraabashir.github.io/paper.pdf)\
 _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis_\
