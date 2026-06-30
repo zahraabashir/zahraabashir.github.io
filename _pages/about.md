@@ -68,7 +68,7 @@ _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis_\
 
 [**LINT: Assessing the Interpretability of Programmatic Policies with Large Language Models**](https://arxiv.org/abs/2311.06979)\
 _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (RLC 2024 InterpPol Workshop)_\
- --> -->
+ -->
 
 
 
