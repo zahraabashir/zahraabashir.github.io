@@ -27,7 +27,7 @@ _<ins>**Zahra Bashir**</ins>, David Aleixo, Kevin Ellis, Levi Lelis_\
 <!-- [abstract link](https://zahraabashir.github.io/abstract.pdf) -->
 
 [**SEGClobber - A Linear Clobber Solver**](https://webdocs.cs.ualberta.ca/~mmueller/ps/2025/Clobber_Solver_ACG_2025.pdf)\
-_Taylor Folkerson, <ins>Zahra Bashir</ins>, Fatemeh Tavakoli, Martin Muller (International Computer Games Association)_\
+_Taylor Folkerson, <ins>Zahra Bashir</ins>, Fatemeh Tavakoli, Martin Muller (International Computer Games Association)_
 
 
 [**Revisiting the Assessment of Programmatic Policy Interpretability: Insights from Human Evaluation**](https://zahraabashir.github.io/paper.pdf)\
