@@ -23,7 +23,7 @@ You can contact me at zb2882@princeton.edu
 <div class="pub-card">
   <a href="https://zahraabashir.github.io/TwoLIP.pdf">What to Represent, How to Act: Programmatic Feature Induction for Few-Shot Bayesian Imitation</a>
   <p class="pub-meta"><strong>Zahra Bashir</strong>, Kelsey Allen, Tom Silver</p>
-  <p class="pub-status">Under review for RLC — RL in Big Worlds Workshop</p>
+  <p class="pub-status">RLC — RL in Big Worlds</p>
 </div>
 
 <div class="pub-card">
