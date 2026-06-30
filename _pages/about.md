@@ -11,12 +11,46 @@ redirect_from:
 ---
 I’m currently a Machine Learning Researcher affiliated with the Princeton Robot Planning and Learning Group (PRPL) and the UBC Natural and Artificial Intelligence Lab (NAIL), working with [Dr. Tom Silver](https://tomsilver.github.io/) and [Dr. Kelsey Allen](https://k-r-allen.github.io/). I will soon begin my PhD under their supervision. Before this, I completed my Master’s in Computer Science at the University of Alberta under the supervision of [Dr. Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/).
 
-I’m interested in building agents that can learn physical strategies from limited experience, especially by combining programmatic policies, learned abstractions, imitation learning, and neurosymbolic reasoning. More broadly, I’m interested in how these ideas can contribute to better world models for physical understanding.
+
 <!-- Currently, my research focuses on building agents that can learn physical strategies from only a few demonstrations. In particular, I study programmatic policies and learned abstractions that help agents generalize beyond the examples they observe. More broadly, I’m interested in how we can build systems that learn, reason, and understand the world more like humans, using ideas from symbolic reasoning, neurosymbolic AI, reinforcement learning, and imitation learning. -->
 
 You can contact me at zb2882@princeton.edu
 
-# Publications
+## Publications
+
+<div class="pub-list">
+
+<div class="pub-card">
+  <a href="https://zahraabashir.github.io/TwoLIP.pdf">What to Represent, How to Act: Programmatic Feature Induction for Few-Shot Bayesian Imitation</a>
+  <p class="pub-meta"><strong>Zahra Bashir</strong>, Kelsey Allen, Tom Silver</p>
+  <p class="pub-status">Under review for RLC — RL in Big Worlds Workshop</p>
+</div>
+
+<div class="pub-card">
+  <a href="#">Plastic Programming Languages: Learning Neuro-Augmented Domain-Specific Languages</a>
+  <p class="pub-meta"><strong>Zahra Bashir</strong>, David Aleixo, Kevin Ellis, Levi Lelis</p>
+  <p class="pub-status">In preparation</p>
+</div>
+
+<div class="pub-card">
+  <a href="https://webdocs.cs.ualberta.ca/~mmueller/ps/2025/Clobber_Solver_ACG_2025.pdf">SEGClobber — A Linear Clobber Solver</a>
+  <p class="pub-meta">Taylor Folkerson, <strong>Zahra Bashir</strong>, Fatemeh Tavakoli, Martin Müller</p>
+  <p class="pub-status">International Computer Games Association</p>
+</div>
+
+<div class="pub-card">
+  <a href="https://zahraabashir.github.io/paper.pdf">Revisiting the Assessment of Programmatic Policy Interpretability: Insights from Human Evaluation</a>
+  <p class="pub-meta"><strong>Zahra Bashir</strong>, Michael Bowling, Levi Lelis</p>
+</div>
+
+<div class="pub-card">
+  <a href="https://arxiv.org/abs/2311.06979">LINT: Assessing the Interpretability of Programmatic Policies with Large Language Models</a>
+  <p class="pub-meta"><strong>Zahra Bashir</strong>, Michael Bowling, Levi Lelis</p>
+  <p class="pub-status">RLC 2024 InterpPol Workshop</p>
+</div>
+
+</div>
+<!-- # Publications
 
 [**What to Represent, How to Act: Programmatic Feature Induction for Few-Shot Bayesian Imitation**](https://zahraabashir.github.io/TwoLIP.pdf)\
 _<ins>**Zahra Bashir**</ins>, Kelsey Allen, Tom Silver (Under Review for RLC - RL in Big Worlds Workshop)_\
@@ -24,24 +58,18 @@ _<ins>**Zahra Bashir**</ins>, Kelsey Allen, Tom Silver (Under Review for RLC - R
 
 [**Plastic Programming Languages: Learning Neuro-Augmented Domain-Specific Languages** (In preparation)]\
 _<ins>**Zahra Bashir**</ins>, David Aleixo, Kevin Ellis, Levi Lelis_\
-<!-- [abstract link](https://zahraabashir.github.io/abstract.pdf) -->
 
 [**SEGClobber - A Linear Clobber Solver**](https://webdocs.cs.ualberta.ca/~mmueller/ps/2025/Clobber_Solver_ACG_2025.pdf)\
-_Taylor Folkerson, <ins>Zahra Bashir</ins>, Fatemeh Tavakoli, Martin Muller (International Computer Games Association)_
+_Taylor Folkerson, <ins>Zahra Bashir</ins>, Fatemeh Tavakoli, Martin Muller (International Computer Games Association)_\
 
 
 [**Revisiting the Assessment of Programmatic Policy Interpretability: Insights from Human Evaluation**](https://zahraabashir.github.io/paper.pdf)\
 _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis_\
-<!-- [paper link](https://zahraabashir.github.io/paper.pdf) -->
 
-<!-- [paper link](https://www.researchgate.net/publication/386080072_Revisiting_The_Assessment_Of_Programmatic_Policy_Interpretability_Insights_From_Human_Evaluation)-->
 
 [**LINT: Assessing the Interpretability of Programmatic Policies with Large Language Models**](https://arxiv.org/abs/2311.06979)\
 _<ins>**Zahra Bashir**</ins>, Michael Bowling, Levi Lelis (RLC 2024 InterpPol Workshop)_\
-<!-- [paper link]() -->
-
-<!-- ## Drafts -->
-
+ -->
 
 
 
