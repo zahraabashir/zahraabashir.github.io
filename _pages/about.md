@@ -17,25 +17,23 @@ I’m currently a Machine Learning Researcher affiliated with the Princeton Robo
 You can contact me at zb2882@princeton.edu
 
 ## Publications
+## Publications
 
 <div class="pub-list">
 
 <div class="pub-card">
-  <a href="https://zahraabashir.github.io/TwoLIP.pdf">What to Represent, How to Act: Programmatic Feature Induction for Few-Shot Bayesian Imitation</a>
-  <p class="pub-meta"><strong>Zahra Bashir</strong>, Kelsey Allen, Tom Silver</p>
-  <p class="pub-status">RLC — RL in Big Worlds</p>
-</div>
-
-<div class="pub-card">
-  <a href="#">Plastic Programming Languages: Learning Neuro-Augmented Domain-Specific Languages</a>
-  <p class="pub-meta"><strong>Zahra Bashir</strong>, David Aleixo, Kevin Ellis, Levi Lelis</p>
-  <p class="pub-status">In preparation</p>
+  <a href="https://openreview.net/forum?id=zibtyst3sI">What to Represent, How to Act: Programmatic Feature Induction for Few-Shot Bayesian Imitation</a>
+  <p class="pub-meta"><strong>Zahra Bashir</strong>, Kelsey Allen, Tom Silver <span class="pub-venue">RLC — RL in Big Worlds</span></p>
 </div>
 
 <div class="pub-card">
   <a href="https://webdocs.cs.ualberta.ca/~mmueller/ps/2025/Clobber_Solver_ACG_2025.pdf">SEGClobber — A Linear Clobber Solver</a>
-  <p class="pub-meta">Taylor Folkerson, <strong>Zahra Bashir</strong>, Fatemeh Tavakoli, Martin Müller</p>
-  <p class="pub-status">International Computer Games Association</p>
+  <p class="pub-meta">Taylor Folkerson, <strong>Zahra Bashir</strong>, Fatemeh Tavakoli, Martin Müller <span class="pub-venue">International Computer Games Association</span></p>
+</div>
+
+<div class="pub-card">
+  <span class="pub-title">Plastic Programming Languages: Learning Neuro-Augmented Domain-Specific Languages</span>
+  <p class="pub-meta"><strong>Zahra Bashir</strong>, David Aleixo, Kevin Ellis, Levi Lelis <span class="pub-venue">In preparation</span></p>
 </div>
 
 <div class="pub-card">
@@ -45,8 +43,7 @@ You can contact me at zb2882@princeton.edu
 
 <div class="pub-card">
   <a href="https://arxiv.org/abs/2311.06979">LINT: Assessing the Interpretability of Programmatic Policies with Large Language Models</a>
-  <p class="pub-meta"><strong>Zahra Bashir</strong>, Michael Bowling, Levi Lelis</p>
-  <p class="pub-status">RLC 2024 InterpPol Workshop</p>
+  <p class="pub-meta"><strong>Zahra Bashir</strong>, Michael Bowling, Levi Lelis <span class="pub-venue">RLC 2024 InterpPol Workshop</span></p>
 </div>
 
 </div>
