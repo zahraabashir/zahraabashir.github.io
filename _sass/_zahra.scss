@@ -1,0 +1,97 @@
+/* Zahra homepage polish */
+
+.page__content {
+  line-height: 1.72;
+}
+
+.page__title {
+  font-size: 2.1rem;
+  letter-spacing: -0.03em;
+  margin-bottom: 1rem;
+}
+
+.home-hero {
+  padding: 1.5rem 1.7rem;
+  margin: 0.5rem 0 1.8rem;
+  border: 1px solid #e8edf0;
+  border-radius: 18px;
+  background: linear-gradient(135deg, #f7fbfc 0%, #ffffff 70%);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.045);
+}
+
+.home-hero .eyebrow {
+  margin-bottom: 0.75rem;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #4f8fa3;
+}
+
+.home-hero h1 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: clamp(1.55rem, 3vw, 2.35rem);
+  line-height: 1.15;
+  color: #26343b;
+}
+
+.home-hero p {
+  margin-bottom: 0;
+  font-size: 1.02rem;
+  color: #44545c;
+}
+
+.research-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0 2rem;
+}
+
+.research-tags span {
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+  background: #eef7f9;
+  color: #34606b;
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+
+.pub-list {
+  display: grid;
+  gap: 0.85rem;
+  margin-top: 1rem;
+}
+
+.pub-card {
+  padding: 1rem 1.1rem;
+  border: 1px solid #e9eef1;
+  border-radius: 14px;
+  background: #ffffff;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.035);
+}
+
+.pub-card a {
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.pub-card a:hover {
+  text-decoration: underline;
+}
+
+.pub-meta,
+.pub-status {
+  margin: 0.3rem 0 0;
+  font-size: 0.9rem;
+  color: #5d6b73;
+}
+
+.author__avatar img {
+  border-radius: 22px;
+}
+
+.author__name {
+  letter-spacing: -0.02em;
+}
