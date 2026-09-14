@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 
-I’m a PhD student in Computer Science at the University of British Columbia, co-advised by [Dr. Kelsey Allen](https://k-r-allen.github.io/) at UBC and [Dr. Tom Silver](https://tomsilver.github.io/) at Princeton University. I’m also affiliated with Princeton Robot Planning and Learning Group (PRPL). Before this, I completed my Master’s in Computer Science at the University of Alberta under the supervision of [Dr. Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/).
+I’m a PhD student in Computer Science at the University of British Columbia, co-advised by [Dr. Kelsey Allen](https://k-r-allen.github.io/) at UBC and [Dr. Tom Silver](https://tomsilver.github.io/) at Princeton University. I’m also affiliated with [Princeton Robot Planning and Learning Group (PRPL)](https://prpl-group.com/#team). Before this, I completed my Master’s in Computer Science at the University of Alberta under the supervision of [Dr. Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/).
 
 I’m interested in understanding how to learn physical strategies from only a few demonstrations and generalize beyond what was observed. Currently, I study how learned abstractions and structured policies can support generalization from limited experience. More broadly, I’m interested in reinforcement learning, world models, and cognitively inspired approaches to learning and reasoning.
 
