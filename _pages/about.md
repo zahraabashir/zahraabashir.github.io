@@ -14,7 +14,7 @@ I’m a PhD student in Computer Science at the University of British Columbia, c
 
 I’m interested in understanding how to learn physical strategies from only a few demonstrations and generalize beyond what was observed. Currently, I study how learned abstractions and structured policies can support generalization from limited experience. More broadly, I’m interested in reinforcement learning, world models, and cognitively inspired approaches to learning and reasoning.
 
-You can contact me at zb2882@princeton.edu/zbashir1@student.ubc.ca .
+You can contact me at zbashir1@student.ubc.ca OR zb2882@princeton.edu.
 
 ## Publications
 
